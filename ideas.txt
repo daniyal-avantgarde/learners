@@ -1,0 +1,3 @@
+tiny neural net
+multiple variables linear regression
+definitely a chess learner would be super cool!
